@@ -1,9 +1,9 @@
-nota1 = float (input ("digite nota 1\n"))
-nota2 = float (input ("digite nota 2\n"))
-media = (nota1 + nota2 ) /2
-if nota1 >= 8:
-    print("aprovado")
-elif media <= 6:
-    print ("recuperação")
+nota1 = float (input ("Digite a primeira nota: "))
+nota2 = float (input ("Digite a segunda nota: "))
+media = (nota1 + nota2) /2
+if media >= 7:
+ print( f"parabens sua media foi {media} vc foi aprovado")
+elif media <= 5:
+ print( f"que pena sua media foi {media} vc foi reprovado")
 else:
-    print("reprovado")
+ print( f"sua media foi {media} vc esta de recuperacao")
