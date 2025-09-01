@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 n1 = int (input ("digite numero 1:"))
 n2 = int (input ("digite numero 2:"))
 n3 = int (input ("digite numero 3:"))
@@ -9,6 +10,8 @@ elif n2 > n1 and  n2 > n3 :
 else:
     print(f"o {n3 } e maior")
 =======
+=======
+>>>>>>> 110e5b4 (mandando mais arq)
 numero1=int (input ("digite o primeiro numero")) 
 numero2=int (input ("digite o segundo numero")) 
 numero3=int (input ("digite o terceiro numero"))
@@ -20,4 +23,7 @@ else :
      print(f"o numero {numero3} é o maior")
      
      
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 110e5b4 (mandando mais arq)
